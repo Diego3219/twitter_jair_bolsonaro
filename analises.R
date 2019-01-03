@@ -7,6 +7,7 @@ library(lubridate)
 #########################################################################################################
 # carrega dados para analise
 tweet_dia_01_01_2019 <- readRDS("C:/Users/DIEGO/Documents/R/twitter_jair_bolsonaro/dados_dias_janeiro/tweet_dia_2019-01-01.RDS")
+tweet_dia_02_01_2019 <- readRDS("C:/Users/DIEGO/Documents/R/twitter_jair_bolsonaro/dados_dias_janeiro/tweet_dia_2019-01-02.RDS")
 
 df <- tweet_dia_01_01_2019
 
